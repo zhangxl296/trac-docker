@@ -1,13 +1,16 @@
 # trac-docker 1.2.3
 
 
-This repo is used to host a bunldle to create a docker container (based on
+This repo is used to host a bundle to create a docker container (based on
 Ubuntu 18.04Lts) running [Trac1.2.3](http://trac.edgewall.org),
 which is an enhanced wiki and issue tracking system for software development
 projects. Trac uses a minimalistic approach to web-based software project
 management. It helps developers write great software while staying out of
 the way. Trac should impose as little as possible on a team's established
 development process and policies.
+
+    Trac version : 1.2.3
+    Base Image : ubuntu latest
 
 
 # How to get the image
